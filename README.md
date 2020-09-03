@@ -14,7 +14,8 @@
 |  |  | [<img src="https://img.favpng.com/13/21/14/logo-formula-student-formula-sae-brand-png-favpng-PRWAK67qCMdsyu63T5Vg03zsA.jpg" width="120" >](https://www.global-formula-racing.com/en/formula-student) |
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ArjunAlbertDev&theme=default" />
-[<img src="https://imgur.com/a/qsdSCSA" width="120" >](https://www.brandeis.edu/jbs/)
+
+[<img src="https://i.imgur.com/XGcRKMo.jpeg" width="120" >](https://www.brandeis.edu/jbs/)
 
 https://imgur.com/a/qsdSCSA
 
