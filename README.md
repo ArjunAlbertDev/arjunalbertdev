@@ -13,7 +13,7 @@
 
 [<img src="https://www.massrobotics.org/wp-content/uploads/2016/03/symbotic-logo.png" width="100" >](https://www.symbotic.com/)
 
-[<img src="https://lever-client-logos.s3.amazonaws.com/3651da66-c3be-456f-95ef-f2f6e3f9b3aa-1545422902203.png" width="100" >](https://jellyfish.co/)
+[<img src="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_fk0xrbmi/def_height/599/def_width/599/version/100011/type/2/q/100" width="100" >](https://jellyfish.co/)
 
 
 https://www.massrobotics.org/wp-content/uploads/2016/03/symbotic-logo.png
