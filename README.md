@@ -1,6 +1,6 @@
-# Hi, I'm Arjun Albert 👋
+## Hi, I'm Arjun Albert 👋
 
-## I have over 8 years of software development experience including...
+### I have over 8 years of software development experience including...
 - M.S. in computer science from [Brandeis University](https://www.brandeis.edu/)
 - Path planning and lead software integration roles at [MIT Driverless](http://driverless.mit.edu/)
 - Software engineering internships at [Symbotic](https://symbotic.com/), [Jellyfish](https://jellyfish.co/), and the [Volen Center for Complex Studies](http://www.bio.brandeis.edu/volen/)
