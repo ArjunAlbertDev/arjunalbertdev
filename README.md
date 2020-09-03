@@ -19,8 +19,6 @@
 
 [<img src="https://pbs.twimg.com/profile_images/1194725078354649088/VLDRKhst.jpg" width="100" >](https://www.brandeis.edu/)
 
-[<img src="https://www.massrobotics.org/wp-content/uploads/2016/03/symbotic-logo.png" width="100" >](https://www.symbotic.com/)
-
 [<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEOpfPFHTDqTg/company-logo_200_200/0?e=2159024400&v=beta&t=LD2PaNJ6CV-oW5IEeYtCCvGtPsBLp1gXHzcZTJBBBO0" width="100" >](http://driverless.mit.edu/)
 
 [<img src="https://images.squarespace-cdn.com/content/5da73021d0636f4ec706fa0a/1572667717217-NCTR7RMMK8HLQKIDFGW0/20_INDY+AC_logo_RGB_r1.png?format=1500w&content-type=image%2Fpng" width="100" >](https://www.indyautonomouschallenge.com/)
