@@ -1,4 +1,4 @@
-### Hi, I'm Arjun Albert 👋
+### Hi, I'm **Arjun Albert** 👋
 
 ## I have over 8 years of software development experience including
 - M.S. in computer science from Brandeis University
