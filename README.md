@@ -7,7 +7,7 @@
 - Computer vision and autonomous systems at Brandeis Autonomous Robotics Lab
 - Lead teaching assistant for CS119 (Autonomous Robotics) at Brandeis (3 semesters)
 
-[<img src="https://pbs.twimg.com/profile_images/1194725078354649088/VLDRKhst.jpg" =100x100>](https://www.brandeis.edu/)
+[<img src="https://pbs.twimg.com/profile_images/1194725078354649088/VLDRKhst.jpg" width="100" height="100">](https://www.brandeis.edu/)
 
 <!--
 **ArjunAlbertDev/arjunalbertdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
