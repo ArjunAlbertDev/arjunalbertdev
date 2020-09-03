@@ -6,6 +6,7 @@
 - Software engineering internships at Symbotic, Jellyfish, and the Volen Center for Complex Studies
 - Computer vision and autonomous systems at Brandeis Autonomous Robotics Lab
 - Lead teaching assistant for CS119 (Autonomous Robotics) at Brandeis (3 semesters)
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
 <!--
 **ArjunAlbertDev/arjunalbertdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
