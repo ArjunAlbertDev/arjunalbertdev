@@ -14,6 +14,13 @@
 |  |  | [<img src="https://img.favpng.com/13/21/14/logo-formula-student-formula-sae-brand-png-favpng-PRWAK67qCMdsyu63T5Vg03zsA.jpg" width="120" >](https://www.global-formula-racing.com/en/formula-student) |
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ArjunAlbertDev&theme=default" />
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://arjunalbertdev.github.io/
+[2]: https://www.linkedin.com/in/arjun-albert-dev/
+
 
 
 <!--
