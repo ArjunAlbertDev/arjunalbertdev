@@ -4,7 +4,7 @@
 - M.S. in computer science from [Brandeis University](https://www.brandeis.edu/)
 - Path planning and lead software integration roles at [MIT Driverless](http://driverless.mit.edu/)
 - Software engineering internships at [Symbotic](https://symbotic.com/), [Jellyfish](https://jellyfish.co/), and the [Volen Center for Complex Studies](http://www.bio.brandeis.edu/volen/)
-- Computer vision and autonomous systems research at Brandeis Autonomous Robotics Lab
+- Computer vision and autonomous systems research at [Brandeis Autonomous Robotics Lab](http://campusrover.org/content/intro/10_campus_rover.md/)
 - Lead teaching assistant for [CS119 (Autonomous Robotics)](http://cosi119r.s3-website-us-west-2.amazonaws.com/) at Brandeis (3 semesters)
 
 | **Education**  | **Internships** | **Projects** |
