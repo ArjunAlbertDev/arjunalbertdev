@@ -1,11 +1,16 @@
 ### Hi, I'm Arjun Albert 👋
 
-## I have over 8 years of software development experience including
+## I have over 8 years of software development experience including...
 - M.S. in computer science from Brandeis University
-- Path planning and software integration at MIT Driverless
+- Path planning and lead software integration roles at MIT Driverless
 - Software engineering internships at Symbotic, Jellyfish, and the Volen Center for Complex Studies
-- Computer vision and autonomous systems at Brandeis Autonomous Robotics Lab
+- Computer vision and autonomous systems research at Brandeis Autonomous Robotics Lab
 - Lead teaching assistant for CS119 (Autonomous Robotics) at Brandeis (3 semesters)
+
+| Education     | Internships   |
+| ------------- | ------------- |
+| [<img src="https://pbs.twimg.com/profile_images/1194725078354649088/VLDRKhst.jpg" width="100" >](https://www.brandeis.edu/)  | Content Cell  | 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" width="100" >](http://driverless.mit.edu/)|
 
 [<img src="https://pbs.twimg.com/profile_images/1194725078354649088/VLDRKhst.jpg" width="100" >](https://www.brandeis.edu/)
 
